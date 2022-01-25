@@ -1,6 +1,6 @@
 body{
     box-sizing: border-box;
-    background-color: lightgrey;
+    background-color: #f0f2f4;
     margin-top: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -35,9 +35,9 @@ header{
 #button1{
     margin-top: 10px;
     margin-left: 50px;
-    background-color: lightskyblue;
+    background-color: rgb(28, 122, 180);
     border-radius: 5px;
-    border-color: lightskyblue;
+    border-color: rgb(28, 122, 180);
     padding: 5px;
     color: white;
 }
@@ -48,4 +48,106 @@ header{
     border-color: lightgrey;
     padding: 5px;
     color: lightgrey;
+}
+
+#sezione-2{
+    background-color: white;
+    border-radius: 5px;
+    margin-top: 2px;
+    margin-left: 150px;
+    margin-right: 150px;
+    height: 600px;
+    padding-top: 30px;    
+}
+
+h3{
+    font-family: sans-serif;
+}
+
+ul{
+    padding-left: 0px;
+}
+
+main .spunta{
+    height: 25px;
+    width: 25px;
+    color: #68c2ac;
+    font-weight: bold;
+    border: 2px solid #68c2ac;
+    border-radius: 50%;
+    padding-left: 4px;
+}
+
+main .croce{
+    height: 25px;
+    width: 25px;
+    color: #d13131;
+    font-weight: bold;
+    border: 2px solid #d13131;
+    border-radius: 50%;
+    padding-left: 4px;
+}
+
+.editorial{
+    background-color: rgb(28, 122, 180);
+    border-radius: 10px;
+    border-color: rgb(28, 122, 180);
+    padding: 5px;
+    color: white;
+    font-size: 10px;
+
+}
+
+#q1{
+    background-color: rgb(160, 89, 207);
+    border-radius: 10px;
+    border-color: rgb(160, 89, 207);
+    padding: 5px;
+    color: white;
+    font-size: 10px;
+
+}
+
+#recruiting{
+    background-color: #68c2ac;
+    border-radius: 10px;
+    border-color: #68c2ac;
+    padding: 5px;
+    color: white;
+    font-size: 10px;
+
+}
+
+#mobile{
+    background-color: rgb(224, 141, 62);
+    border-radius: 10px;
+    border-color: rgb(224, 141, 62);
+    padding: 5px;
+    color: white;
+    font-size: 10px;
+
+}
+
+#website{
+    background-color: rgb(218, 105, 152);
+    border-radius: 10px;
+    border-color: rgb(218, 105, 152);
+    padding: 5px;
+    color: white;
+    font-size: 10px;
+
+}
+
+#sales{
+    background-color: rgb(73, 202, 127);
+    border-radius: 10px;
+    border-color: rgb(73, 202, 127);
+    padding: 5px;
+    color: white;
+    font-size: 10px;
+
+}
+
+section{
+    padding-left: 50px;
 }
