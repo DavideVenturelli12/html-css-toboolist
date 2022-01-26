@@ -30,7 +30,8 @@ header{
 
 #add-buttons{
     background-color: white;
-    border-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
     margin-top: 35px;
     margin-left: 150px;
     margin-right: 150px;
@@ -57,7 +58,8 @@ header{
 
 #sezione{
     background-color: white;
-    border-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
     margin-top: 2px;
     margin-left: 150px;
     margin-right: 150px;
